@@ -1,4 +1,4 @@
-# NC Angular Workshop
+# Angular Starter
 This is a minimal angular4 setup
 
 ## Prerequisites
