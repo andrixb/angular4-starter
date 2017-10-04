@@ -1,5 +1,5 @@
 # NC Angular Workshop
-This is a minimal angular2 setup to be use the Netcentric's workshop
+This is a minimal angular4 setup
 
 ## Prerequisites
 * run `yarn install` to install all dependencies
@@ -9,3 +9,6 @@ From the project's folder you can run theses commands:
 
 * `npm start`: serve your app and autoreload on changes
 * `npm run build`: build your app for production 
+
+## Book
+https://www.gitbook.com/book/andrixb/ng4/details
